@@ -13,7 +13,7 @@
 + Будет возможность начать новую игру.
 ## Инструкция по установке:
 1 вариант:
-+ Скачать [exe](https://google.com/) файл и нажать на него.
++ Скачать [exe](https://drive.google.com/drive/folders/1JGKL82lUiiCiL0zhiT6tfPXg-3zWrZ-d?usp=sharing/) файл и нажать на него.
 
 2 вариант:
 + Скачать Python
